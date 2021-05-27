@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_id">ID</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="save_text">Save</string>
+    <string name="text_name">Full Name</string>
+    <string name="cancel_message">Firebase Canceled</string>
+    <string name="success_message">Berhasil !</string>
+    <string name="action_ok">Ok</string>
+</resources>
